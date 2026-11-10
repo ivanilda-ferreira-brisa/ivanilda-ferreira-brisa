@@ -2,7 +2,7 @@
   <h1>Olá! Eu sou a Ivanilda 👋</h1>
   <p>Bem-vinda(o) ao meu perfil no GitHub!</p>
 
-  <!--  GIF 
+  <!--  GIF -->
   <img width="480" height="250" alt="TheSimpsonsInternetGIF" src="https://github.com/user-attachments/assets/1a7169af-60a6-47a8-87e6-9a6be3a220d0" />
   <br/><br/>
 
